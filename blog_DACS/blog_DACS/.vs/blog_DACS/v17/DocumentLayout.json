@@ -1,0 +1,1530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\blog_DACS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\admin\\card\\cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\admin\\card\\cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\profile\\shareposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\profile\\shareposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\profile\\favoriteposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\profile\\favoriteposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\registrationsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\registrationsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\profile\\follower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\profile\\follower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlcomments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlcomments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_layout - copy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\qlcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\qlcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qluser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qluser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\resetpasswordconfirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\resetpasswordconfirmviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\resetpasswordemailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\resetpasswordemailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\search\\useradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\search\\useradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\search\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\search\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shares\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shares\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlcomments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlcomments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\sharescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\sharescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\qlusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\qlusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qluser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qluser\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\userpermissionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\userpermissionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlposts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\qlpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\qlpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlposts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\search\\postadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\search\\postadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlposts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\layoutnew\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\layoutnew\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\liked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\liked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\favoritepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\favoritepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\favoriteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\favoriteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\commentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\commentviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\default\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\default\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\authorizationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\authorizationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\view models\\searchviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\view models\\searchviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlcomments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlcomments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\qlposts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\qlposts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\controllers\\home1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\home1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\models\\blogcanhanncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\models\\blogcanhanncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\admin\\bootstrapp\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\admin\\bootstrapp\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\blog_dacs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\blog_dacs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\mainmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\mainmenu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\wwwroot\\stylemenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\wwwroot\\stylemenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\migrations\\20240423051728_blogcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\migrations\\20240423051728_blogcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|c:\\users\\user\\desktop\\blog_dacs\\blog_dacs\\migrations\\blogcanhanncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D5DB-FC15-42AF-B3E0-98F4DB99ADA5}|blog_DACS\\blog_DACS.csproj|solutionrelative:blog_dacs\\migrations\\blogcanhanncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:27:13.7Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1795539884:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAIwA4BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:37:03.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPassword.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:58:24.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\Login.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\Login.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:18:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\ProfilesController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\ProfilesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\ProfilesController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\ProfilesController.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAjwPYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:54:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAEwG0AAACxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:56:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Posts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Posts\\Details.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAALQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:02:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:03:00.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Comments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Comments\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:48:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ForgotPassword.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T11:41:01.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sharePosts.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\sharePosts.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Profile\\sharePosts.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\sharePosts.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Profile\\sharePosts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:19:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cards.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Admin\\card\\cards.css",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\Admin\\card\\cards.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Admin\\card\\cards.css",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\Admin\\card\\cards.css",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T13:09:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Follower.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\Follower.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Profile\\Follower.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\Follower.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Profile\\Follower.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:26:22.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoritePosts.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\FavoritePosts.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Profile\\FavoritePosts.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Profile\\FavoritePosts.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Profile\\FavoritePosts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T01:51:07.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\RegistrationSuccess.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\RegistrationSuccess.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\RegistrationSuccess.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\RegistrationSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T17:07:16.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\appsettings.json",
+              "RelativeDocumentMoniker": "blog_DACS\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\appsettings.json",
+              "RelativeToolTip": "blog_DACS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T05:35:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:57:01.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Program.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Program.cs",
+              "RelativeToolTip": "blog_DACS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:25:20.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Follow.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Follow.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Follow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:03:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\ProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:13:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLComments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Delete.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLComments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:33:07.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout - Copy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_Layout - Copy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout - Copy.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_Layout - Copy.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:08:18.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QLCommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLCommentsController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\QLCommentsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLCommentsController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\QLCommentsController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAwJcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:05:01.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\User.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:59:32.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:59:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ResetPasswordConfirmViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ResetPasswordConfirmViewModel.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\ResetPasswordConfirmViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ResetPasswordConfirmViewModel.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\ResetPasswordConfirmViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:50:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:59:40.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLuser\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLuser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLuser\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLuser\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:28:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T04:22:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResetPasswordEmailSent.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPasswordEmailSent.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ResetPasswordEmailSent.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ResetPasswordEmailSent.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ResetPasswordEmailSent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T06:34:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:00:29.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Search\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T19:18:47.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Indexuser.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\Indexuser.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Search\\Indexuser.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\Indexuser.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Search\\Indexuser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:04:47.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Post.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Post.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:17:54.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:12:34.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T15:14:57.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\UserAdmin.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Search\\UserAdmin.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\UserAdmin.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Search\\UserAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:16:00.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shares\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shares\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shares\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shares\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:07:16.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLComments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLComments\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T19:30:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SharesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\SharesController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\SharesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\SharesController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\SharesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:02:20.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:50:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QLuserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLuserController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\QLuserController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLuserController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\QLuserController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:25:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLuser\\Create.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLuser\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLuser\\Create.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLuser\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:47:33.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Permission.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:35:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoleUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\RoleUser.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\RoleUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\RoleUser.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\RoleUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:35:22.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserPermissionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\UserPermissionViewModel.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\UserPermissionViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\UserPermissionViewModel.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\UserPermissionViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:59:41.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:02:35.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLPosts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Delete.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLPosts\\Delete.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T06:40:57.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:14:23.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "QLPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLPostsController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\QLPostsController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\QLPostsController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\QLPostsController.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAUwJIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:11:34.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Comment.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:48:36.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "postAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\postAdmin.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Search\\postAdmin.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Search\\postAdmin.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Search\\postAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T05:52:41.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLPosts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLPosts\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T03:24:28.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Create.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLPosts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Create.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLPosts\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T03:55:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\ChangePassword.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:30:34.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T12:35:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Comments\\Details.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Comments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Comments\\Details.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Comments\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T13:58:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Layoutnew\\css\\style.css",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\Layoutnew\\css\\style.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Layoutnew\\css\\style.css",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\Layoutnew\\css\\style.css",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T13:08:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Home1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\Home1Controller.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\Home1Controller.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\Home1Controller.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\Home1Controller.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vyQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:10:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Share.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Share.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Share.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Share.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Share.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:02:40.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Liked.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Liked.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\Liked.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\Liked.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\Liked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:23:18.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FavoritePost.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\FavoritePost.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\FavoritePost.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\FavoritePost.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\FavoritePost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:30:37.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FavoriteUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\FavoriteUser.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\FavoriteUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\FavoriteUser.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\FavoriteUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:03:24.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CommentViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\CommentViewModels.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\CommentViewModels.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\CommentViewModels.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\CommentViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:47:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Default\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Default\\AccessDenied.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Default\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T15:31:12.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:04:33.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthorizationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\AuthorizationHelper.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\AuthorizationHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\AuthorizationHelper.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\AuthorizationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:44:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SearchViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\SearchViewModels.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\View Models\\SearchViewModels.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\View Models\\SearchViewModels.cs",
+              "RelativeToolTip": "blog_DACS\\View Models\\SearchViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:30:44.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T04:04:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Controllers\\PostController.cs",
+              "RelativeToolTip": "blog_DACS\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:51:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "blog_DACS\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "blog_DACS\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-26T17:37:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Home1\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Home1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Home1\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Home1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T15:15:23.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Create.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLComments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLComments\\Create.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLComments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T19:08:57.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\QLPosts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\QLPosts\\Edit.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\QLPosts\\Edit.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T18:58:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\styles.css",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T09:14:48.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Home1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Controllers\\Home1Controller.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Controllers\\Home1Controller.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Controllers\\Home1Controller.cs",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Controllers\\Home1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:18:08.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Home1\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\Home1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Home1\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\Home1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T18:18:30.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T04:52:48.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T17:47:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T14:17:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:35:53.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T04:24:43.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T08:49:33.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T04:22:36.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "blog_DACS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "blog_DACS\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T08:49:27.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "BlogcanhannContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Models\\BlogcanhannContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Models\\BlogcanhannContext.cs",
+              "RelativeToolTip": "blog_DACS\\Models\\BlogcanhannContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:03:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Admin\\bootstrapp\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\Admin\\bootstrapp\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\Admin\\bootstrapp\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\Admin\\bootstrapp\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-27T02:14:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "blog_DACS.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\blog_DACS.csproj",
+              "RelativeDocumentMoniker": "blog_DACS\\blog_DACS.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\blog_DACS.csproj",
+              "RelativeToolTip": "blog_DACS\\blog_DACS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T04:43:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "stylemenu.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\stylemenu.css",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\stylemenu.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\stylemenu.css",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\stylemenu.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAIBZwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T04:41:21.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "mainmenu.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\mainmenu.js",
+              "RelativeDocumentMoniker": "blog_DACS\\wwwroot\\mainmenu.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\wwwroot\\mainmenu.js",
+              "RelativeToolTip": "blog_DACS\\wwwroot\\mainmenu.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBZwBwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-24T08:59:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "blog_DACS\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "blog_DACS\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T08:09:21.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BlogcanhannContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Migrations\\BlogcanhannContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Migrations\\BlogcanhannContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Migrations\\BlogcanhannContextModelSnapshot.cs",
+              "RelativeToolTip": "blog_DACS\\Migrations\\BlogcanhannContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:17:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240423051728_BLOGCANHAN.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Migrations\\20240423051728_BLOGCANHAN.cs",
+              "RelativeDocumentMoniker": "blog_DACS\\Migrations\\20240423051728_BLOGCANHAN.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\blog_DACS\\blog_DACS\\Migrations\\20240423051728_BLOGCANHAN.cs",
+              "RelativeToolTip": "blog_DACS\\Migrations\\20240423051728_BLOGCANHAN.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:17:28.631Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
